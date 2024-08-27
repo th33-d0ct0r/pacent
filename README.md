@@ -1,0 +1,1 @@
+This is my personal project named 'Pacent'. I will design a pitch deck for this app and upload the progress of all my work in the form of pngs and other files. I am making this for Hack Club Arcade 2024. Thank you
